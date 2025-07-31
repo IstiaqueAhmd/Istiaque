@@ -38,32 +38,17 @@
 🔬 Techniques: [e.g., GANs, Reinforcement Learning, Graph Neural Networks]  
 📄 [Paper Link](https://arxiv.org/your-paper)
 
-### Open Source Contributions
-- **[Library Name]**: Contributed [specific contribution] to this popular ML library
-- **[Framework Name]**: Implemented [feature/module] for distributed training
 
-## 📝 Latest Publications
-1. **"[Paper Title]"**  
-   *Journal/Conference Name*, 2023  
-   [DOI/Link](#)
-
-2. **"[Conference Paper]"**  
-   *NeurIPS/ICML/AAAI*, 2023  
-   [Preprint](#)
 
 ## 🎓 Education
-- **MSc in Artificial Intelligence** - [University Name] (202X-202X)
-- **BSc in Computer Science** - [University Name] (201X-201X)
-- Certifications:  
-  📜 AWS Machine Learning Specialty  
-  📜 DeepLearning.AI TensorFlow Developer
+- **BSc in Computer Science** - Brac University (2021-2025)
 
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/istiaqueahmd)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 
-📫 Reach me at: [your.email@domain.com](mailto:your.email@domain.com)
+📫 Reach me at: [istiaque.inbox@gmail.com](mailto:istiaque.inbox@gmail.com)
